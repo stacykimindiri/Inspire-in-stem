@@ -1,0 +1,18 @@
+#!/usr/bin/python
+#####################################################
+#           Arithmentic progression
+#       Name : Stacy Emmy
+#       Date : 27 / 5 / 20.
+#####################################################
+# first 10 terms of AP
+# a - first number
+#d - steps(common difference)
+# n - number of terms
+a = int(input("Enter the first number"))
+d = int(input("Enter the common difference "))
+n = int(input("Enter the number of terms "))
+for i in range(1,n + 1):
+    n_term = a + ( i - 1 ) * d
+    print(n_term)
+sum_n1 = (n_term/2) * (2 * a + (n-1) * d)
+print("The sum of arithmetic progression is:",sum_n1)
