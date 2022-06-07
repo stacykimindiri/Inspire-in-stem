@@ -76,12 +76,20 @@ TUPLES
 FUNCTIONS
     -Initializing functions
     -Calling functions
+QUADRATIC EQUATIONS
 
 
 
 ## Week 4 : Javascript , cos , html
-
-
+FILE OPERATIONS
+    -Open file      file.name.open()
+    -Write file     .write()
+    -Append file    .append()
+    -Close  file       .close()
+    -Read  file         .read()
+    -Seek  file        .seek('4') .seek(5)
+    -Tell  file        .tell()- Tell what line
+    -Readline       .readline()-reads a whole line
 
 
 ## Week 5 : Design thinking ux ui
