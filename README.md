@@ -8,7 +8,7 @@ https://www.python.org/downloads/
 https://code.visualstudio.com/download
 --link to downloading git for windows
 https://desktop.github.com/
-[Lesson 1](./images/lesson1.PNG)
+[Lesson 1](./IMAGES/lesson1.PNG)
 
 GIT COMMANDS
     git add *
@@ -49,7 +49,7 @@ DICTIONARIES
     -Lists in dictionaries
     -Dictionaries in dictionaries
     -Dictionaries in lists
-[Lesson 8](./images/lesson8.PNG)
+[Lesson 8](./IMAGES/lesson8.PNG)
 IF FUNCTION
     -Use of if elif
     -Use of the if function with for loops
@@ -83,13 +83,13 @@ QUADRATIC EQUATIONS
 ## Week 4 : Javascript , cos , html
 FILE OPERATIONS
     -Open file      file.name.open()
-    -Write file     .write()
-    -Append file    .append()
-    -Close  file       .close()
-    -Read  file         .read()
-    -Seek  file        .seek('4') .seek(5)
-    -Tell  file        .tell()- Tell what line
-    -Readline       .readline()-reads a whole line
+    -Write file      .write()
+    -Append file     .append()
+    -Close  file     .close()
+    -Read  file      .read()
+    -Seek  file      .seek('4') .seek(5)
+    -Tell   file     .tell()- Tell what line
+    -Readline        .readline()-reads a whole line
 
 
 ## Week 5 : Design thinking ux ui
