@@ -31,6 +31,7 @@ time()
 
 mainloop()
 
+# creating an analog clock
 
 from turtle import *
 from datetime import datetime
