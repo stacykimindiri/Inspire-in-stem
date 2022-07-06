@@ -1,0 +1,17 @@
+body{
+        margin:15px;
+        background-color: silver;
+}
+#nav-1{
+        background-color: burlywood;
+        margin:20px;
+}
+/*how to comment*/
+.block{
+        background-color: peru;
+}
+.meta-data{
+        color:rosybrown;
+        font-weight:400;
+        font-size: 18px;
+}
